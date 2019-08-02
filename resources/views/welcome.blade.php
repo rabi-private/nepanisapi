@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    rabi rest api
+                   Pushed and deployed from github
                 </div>
 
                 <div class="links">
